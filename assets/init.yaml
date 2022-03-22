@@ -95,7 +95,7 @@ thingworx_servers:
   # - name: "Thingworx-Server-2"
   #   host: "localhost"
   #   port: 8081
-  #   protocols: http
+  #   protocol: http
   #   application: "Thingworx"
   #   app_key: "8d9f6189-1939-4542-97ce-5a6fc75a0372"
   #   subsystems: *default_subsystems
